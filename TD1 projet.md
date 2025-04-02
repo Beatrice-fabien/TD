@@ -43,14 +43,31 @@ Zoom permet le partage de la voix, de la vidéo, et de l'écran, ainsi que des m
 
 ## Facteurs clés de réussite
 
-•	Simplicité d’utilisation : Interface intuitive, facile à prendre en main.
-•	Accès multiplateforme : Fonctionne sur PC, Mac, mobile et même via un simple navigateur.
-•	Qualité et performance : Vidéo HD, audio clair, et stabilité même avec une connexion moyenne.
-•	Freemium attractif : Version gratuite avec fonctionnalités essentielles, incitant les utilisateurs à  adopter la version payante.
-•	Adaptabilité au télétravail et à l’éducation : Explosion de la demande pendant la pandémie.
-•	Facilité d’utilisation et déploiement rapide.
-•	Fonctionnalités avancées (arrière-plans virtuels, enregistrement, intégration avec d’autres outils).
-•	Large adoption par les entreprises et les écoles
+### Technologie
+| **Facteurs**  | **Zoom** |
+|-----------    |-----------|
+| **Innovation**    |Zoom a misé sur une technologie simple, fluide et évolutive pour la visioconférence en cloud avec une interface intuitive et une faible latence.|
+ **Expérience utilisateur**| Interface conviviale, connexion facile sans installation complexe, et compatibilité avec plusieurs plateformes.  |
+| **Sécurité** |Zoom a rencontré des problèmes initiaux (Zoombombing) mais a réagi rapidement en améliorant le chiffrement et en achetant Keybase. |
+|**Adaptabilité**|Zoom a su s’adapter à l’explosion de la demande pendant la pandémie en renforçant ses infrastructures cloud.|
+ 
+
+ ### Gestion
+| **Facteurs**  | **Zoom** |
+|-----------    |-----------|
+| **Leadership**|Eric Yuan, fondateur de Zoom, a mis l’accent sur l’innovation et l’expérience utilisateur.|
+ **Réactivité**| Zoom a rapidement réagi aux défis techniques et sécuritaires, renforçant sa crédibilité. |
+| **Culture d’entreprise** |Culture axée sur la simplicité et l’efficacité, favorisant l’innovation continue. |
+
+
+ ### Strategie
+| **Facteurs**  | **Zoom** |
+|-----------    |-----------|
+| **Positionnement**|Zoom s’est imposé comme un outil de visioconférence accessible à tous, notamment avec un modèle freemium attractif.|
+ **Business model**| Modèle SaaS basé sur l’abonnement et une version gratuite attractive. |
+| **Partenariats et écosystème** |Zoom s’est intégré avec de nombreux outils tiers (Slack, Google, Microsoft).. |
+|**Anticipation du marché**|Zoom a profité de la montée du télétravail et de la digitalisation des échanges|
+
 
 # Étude de cas 2 : Un projet IT échoué – L’exemple de Black Berry
 
@@ -60,17 +77,40 @@ BlackBerry est une ligne de téléphones intelligents canadienne utilisant le sy
 
 ## Facteurs d’échec
 
-•	Refus d’innover : BlackBerry est resté trop longtemps attaché à son clavier physique, alors que l’écran tactile devenait la norme.
-•	Système d’exploitation fermé : BlackBerry OS ne permettait pas d’accéder à un large choix d’applications, contrairement à iOS et Android.
-•	Manque d’écosystème d’applications : L’absence d’un store compétitif a découragé les utilisateurs.
-•	Mauvaise transition vers Android : Trop tardive et sans véritable différenciation.
-•	Domination d’iPhone et Android : Le tactile et les écosystèmes riches d’Apple et Google ont rendu BlackBerry obsolète.
+
+### Technologie
+| **Facteurs**  | **Blackberry** |
+|-----------    |-----------|
+| **Innovation**    |BlackBerry a tardé à innover, maintenant un clavier physique alors que les écrans tactiles devenaient la norme avec l'iPhone et Android..|
+ **Expérience utilisateur**|Interface vieillissante, manque d’applications tierces et d’écosystème attractif.  |
+| **Sécurité** |BlackBerry était reconnu pour sa sécurité, mais cet avantage est devenu moins différenciant avec l’amélioration d’iOS et d’Android. |
+|**Adaptabilité**|BlackBerry n’a pas su s’adapter à la montée des smartphones grand public et des applications mobiles.|
+ 
+ 
+ ### Gestion
+| **Facteurs**  | **Blackberry** |
+|-----------    |-----------|
+| **Leadership**|La direction de BlackBerry a sous-estimé la menace de l’iPhone et Android.|
+ **Réactivité**| BlackBerry a tardé à reconnaître la nécessité d’un écosystème d’applications et l’importance des écrans tactiles. |
+| **Culture d’entreprise** |Organisation rigide et réticente au changement, freinant l’adoption de nouvelles approches. |
+
+
+ ### Strategie
+| **Facteurs**  | **Blackberry** |
+|-----------    |-----------|
+| **Positionnement**|BlackBerry s’est focalisé trop longtemps sur le marché des entreprises et n’a pas su séduire le grand public..|
+ **Business model**| Vente de matériel avec un écosystème fermé, rendant difficile la fidélisation à long terme. |
+| **Partenariats et écosystème** |BlackBerry n’a pas su attirer les développeurs et créer un écosystème d’applications compétitif. |
+|**Anticipation du marché**|BlackBerry n’a pas anticipé la transition vers les smartphones multifonctions et les applications mobiles.|
 
 ## Analyse de projets IT réussis et ratés
 
  ### Analyse comparative : Facteurs clés de succès et causes d’échec
 
-Zoom a su profiter des opportunités du marché (pandémie, télétravail) avec un produit simple et performant, tandis que BlackBerry a échoué en restant trop conservateur et en n’adoptant pas les nouvelles tendances.
+•	Zoom a réussi grâce à une technologie performante et évolutive, une gestion agile et une stratégie adaptée aux tendances du marché. On ne peut pas nier ses concurrents  féroces : Microsoft Teams, Google Meet, etc.
+
+
+•	BlackBerry a échoué en raison d’un manque d’innovation, d’une gestion rigide et d’une stratégie mal adaptée à l’évolution du marché des smartphones. Si BlackBerry avait adopté plus rapidement un modèle ouvert et un écosystème d’applications compétitif, il aurait pu mieux résister à la montée d’Apple et d’Android.
 
 
 
