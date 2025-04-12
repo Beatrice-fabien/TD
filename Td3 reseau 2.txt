@@ -1,0 +1,70 @@
+
+<div style="border:6px solid black; text-align:center">
+
+# INSTITUT UNIVERSITAIRE DES SCIENCES - IUS
+ 
+
+
+## **Faculté des Sciences et Technologie - FST** 
+
+
+
+Niveau L3 Sciences Informatiques
+
+
+**NOM** : FABIEN
+
+**Prenom** : Marie Béatrice
+
+
+Soumis au chargé de cours Ismael SAINT AMOUR
+
+
+**Date**: Dimanche 30 Mars 2025
+</div>
+
+
+
+# La configuration des protocoles Telnet, SSH, DNS et DHCP avec GNS3 ont pour objectif de vous permettre
+### de maîtriser les concepts et les compétences pratiques liés à la configuration, à la gestion et au dépannage des réseaux.
+### Comprendre la différence entre Telnet (non sécurisé) et SSH (sécurisé).
+### Configurer l'accès à distance à un routeur ou un commutateur via Telnet et SSH.
+### Configurer un serveur DNS et DHCP sur un routeur Cisco.
+### Tester l'attribution des adresses IP aux clients.
+
+
+## Configurer le procole Telnet sur cette topologie
+![images1](images T)
+
+
+## Ajout d'une image de Routeur
+
+
+
+# Topologie du réseau
+
+**Connectez le routeur au switch.
+Connectez les PC au switch.**
+
+
+**Configuration du Routeur et des deux PCS**
+
+
+
+**Reproduisez cette topologie en configurant le routeur et les PC.**
+
+
+
+# Conclusion
+
+Ce TD m'aide à installer et intégrer GNS3   pour utiliser une machine virtuelle comme
+serveur dans un environnement de simulation réseau.
+
+
+
+
+
+
+
+
+
